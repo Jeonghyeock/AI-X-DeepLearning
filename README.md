@@ -4,4 +4,36 @@
 
 > 안소이 김정혁 설광진 전아영
 
-----
+____
+
+### I. Proposal
+
+<br />
+
+____
+
+### II. Datasets
+
+<br />
+
+____
+
+### III. Methodology
+
+<br />
+
+____
+
+### IV. Evaluation & Analysis
+
+<br />
+
+____
+
+### V. Related Work (e.g., existing studies)
+
+<br />
+
+____
+
+### VI. Conclusion: Discussion
